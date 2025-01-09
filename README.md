@@ -1,4 +1,4 @@
-Here’s a concise **README.md** file for your Git repository:
+CHATBOT USING NLP
 
 ```markdown
 # Intent-based Chatbot with NLP and Logistic Regression
@@ -47,19 +47,11 @@ To run the chatbot locally, follow these steps:
 The chatbot is trained on a labeled dataset of intents, patterns, and responses stored in a JSON file. You can modify the dataset to add new intents or responses.
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License 
 
 ## Acknowledgements
 - **NLTK:** For natural language processing and text preprocessing.
 - **Scikit-learn:** For Logistic Regression and machine learning functionality.
 - **Streamlit:** For deploying the chatbot with an interactive web interface.
 
-## Author
-- [Your Name](https://github.com/yourusername)
-```
 
-### To Add:
-- **Replace** `yourusername` with your actual GitHub username in the URL and any relevant fields.
-- **Dependencies:** Add any additional Python libraries you've used in the `requirements.txt` file (e.g., `nltk`, `sklearn`, `requests`, etc.).
-  
-Let me know if you'd like further changes!
